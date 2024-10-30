@@ -1,0 +1,4 @@
+repository "WestGame@westj9@cloud"
+  path "/"
+    br "/main"
+    co "/main"
